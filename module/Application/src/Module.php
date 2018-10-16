@@ -10,7 +10,6 @@ namespace Application;
 use Zend\ModuleManager\ModuleManager;
 use Locale;
 use Zend\Mvc\MvcEvent;
-use Zend\Http\PhpEnvironment\Request;
 
 class Module
 {
